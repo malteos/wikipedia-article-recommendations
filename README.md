@@ -7,7 +7,7 @@ This repository contains the supplemental materials for the ICADL 2021 paper [A 
 
 ## User study design
 
-![Wikipedia Relations](https://github.com/malteos/wikipedia-article-recommendations/raw/master/study-design.png)
+![Wikipedia Relations](https://github.com/malteos/wikipedia-article-recommendations/raw/main/study-design.png)
 
 Prior to our study, we created a sample of 40 seed articles covering a diverse spectrum of article types in Wikipedia.
 Our aim when selecting these seed articles was to achieve a diversity of topics, which nonetheless remained comprehensible to a general audience.
