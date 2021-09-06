@@ -1,0 +1,41 @@
+id,category,article,words,page_views,quality
+1,A,Babylonian mathematics,"3,825","85,739",B
+2,A,Water pollution in India,"1,697","121,397",S
+3,A,Transport in Greater Tokyo,"3,046","44,286",C
+4,A,History of United States cricket,"3,61","6,585",S
+5,A,Firefox for Android,"4,821","256,329",C
+6,A,Chocolate syrup,391,"27,405",Stub
+7,A,Freshwater snail,1757,"86,54",C
+8,A,Touring car racing,2550,"77,584",S
+9,A,Mudflat,787,"59,571",C
+10,A,Philosophy of healthcare,"3,804","26,036",B
+11,B,Fire,"4,297","730,166",C
+12,B,Basketball,"11,172","2,378,860",C
+13,B,Mandarin Chinese,6.980,"667,362",C
+14,B,Cancer,"16,3","1,959,442",B
+15,B,Vietnam War,"32,847","7,249,218",C
+16,B,Cat,"17,009","3,165,168",GA
+17,B,Earthquake,"7,541","2,128,897",C
+18,B,Submarine,"11,968","915,335",C
+19,B,Rock music,"19,833","959,97",C
+20,B,Wind power,"15,761","667,362",GA
+21,C,Mainau,567,"33,318",S
+22,C,Lake Constance,"7,079","185,282",C
+23,C,Spandau,599,"47,04",C
+24,C,Appenzell,"2,667","23,423",C
+25,C,Michael Müller (politician),602,"23,274",Stub
+26,C,Olympiastadion (Berlin),"3,36","193,836",C
+27,C,Theo Albrecht,929,"115,395",S
+28,C,ARD (broadcaster),"2,397","78,941",S
+29,C,Kaufland,680,"77,604",Stub
+30,C,Sylt Air,110,"4,285",Stub
+31,D,Albert Einstein,"15,071","9,426,364",GA
+32,D,Hillary Clinton,"28,645","7,067,146",FA
+33,D,Brad Pitt,"9,955","4,794,238",FA
+34,D,New York City,"30,167","5,885,197",B
+35,D,India,"16,861","11,951,863",FA
+36,D,Elon Musk,"11,529","11,298,152",C
+37,D,Google,"16,216","9,961,508",C
+38,D,Star Wars,"16,046","9,800,533",B
+39,D,AC/DC,"10,442","2,780,873",FA
+40,D,FIFA World Cup,"7,699","2,345,969",FA

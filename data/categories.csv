@@ -1,0 +1,5 @@
+id,category_name,pop_type,topic_type
+A,Niche generic topics,niche,generic
+B,Popular generic topics (typical encyclopedia articles),popular,generic
+C,"Niche named entities (actors, politicians, locations)",niche,named entity
+D,Popular named entities,popular,named entity

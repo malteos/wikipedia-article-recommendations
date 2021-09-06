@@ -1,0 +1,21 @@
+﻿PID;Group ID;Field of study;Education level;Age;Familiar with Wikipedia?;Hrs/M on Wikipedia;Reason #1;Reason #2;Reason #3;Optional reasons
+1;2;Information Engineering;Schweizerische Maturität;;Y;2;look up a definition;research a topic;-;-
+2;1;Computer Science;Abitur;21;Y;10;Look up definitions/algorithms ;Look up chemical values and constants ;Expand general knowledge;
+3;2;Information Engineering;Abitur;23;Y;1;Research;Interest in specific topic;;
+4;1;-;High School;37;Y;2;Information about a specific topic;Entertainment – just skipping through articles;I like to compare articles in different languages;
+5;2;Nanoplasmonics;Diploma;31;Y;10;Look something up (something special);Get general information on a topic;Re-linked there;
+6;1;Computer Science;Abitur;24;Y;5;To check facts (history related);While searching for information concurring my studies;General knowledge ;
+7;2;Physics;Abitur;29;Y;15;To get information about my studies;To inform myself about subjects of interest;To clarify certain questions;
+8;1;Biological Science;Bachelor;24;Y;5;Research;Learning of specific topics;Information in general/definitions ;
+9;2;Linguistics;Bachelor;26;Y;1;Easy explanations for basically everything;Find sources for own investigation;;
+10;1;Politics & Public Administration;Bachelor;24;Y;2.5;Find out quick facts/definitions for my research topics.;Out of interest.;Being linked to it by searching for other topics, etc. (snowball method);
+11;2;Biology/Economics;Bachelor;22;Y;8;Wide variety of topics covered, all of them in good depth;Easy use and always available (no need of looking information in books);"Every article is ""connected"" to others that might be helpful";
+12;1;Architecture ;Abitur;19;Y;2;Curiosity;Need exact dates for a discussion;As a research source for my essays;
+13;2;Computer Science;Master;35;Y;1;Find a short definition and introduction to an unfamiliart topic;Find a short definition and introduction to an unfamiliar topic;Read on certain popular topics in depth, e.g. typical algorithms or approaches in computer science;
+14;1;Computer Science;PhD;38;Y;;@ccc must scan sheets and digitalize data;;;
+15;2;Law;Diploma;25;Y;1;Overview;Quick information;related topics;basic information, research for interdisciplinary work
+16;1;Environmental Engineering;A-level;27;Y;3;Research;private interest;getting dates / information in common;-
+17;2;Human Factors;Bachelor;28;Y;1;Problems while studying;Fact checking;-;-
+18;1;Computer Science;Bachelor;25;Y;7;Research (starting point, overview);Personal interest in certain topics;-;-
+19;2;Communication Design;Bachelor;30;Y;1;Basic info about cities where I travel;Historic events, background knowledge;Special interest in various topics;
+20;1;Business / Regional Development;Bachelor;25;Y;1;Information overview;Quick + easy way to check data;easy use on mobile device when looking up things on the go;-

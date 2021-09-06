@@ -1,0 +1,23 @@
+﻿mc_qid;question;answers
+A1;Would you say the recommended articles are more similar or more diverse when compared to the article at hand?;similar/diverse/uncertain
+B1;Would you say the recommended articles are more similar or more diverse when compared to the article at hand?;yes/no
+A2;Is there a surprising recommendation, i.e. an unexpected recommendation among the recommendation Set A?;yes/no
+B2;Is there a surprising recommendation, i.e. an unexpected recommendation among the recommendation Set A?;yes/no
+MC1;How familiar were you with the topic of the article? (i.e. did you have any background knowledge on the topic?);Not at all/unfamiliar/undecided/familiar/very familiar
+MC2;How interesting did you find the source article?;Not at all interesting/uninteresting/ undecided/interesting/ very interesting
+MC3;How likely are you to click on a recommendation made in the recommended article Set A?;very unlikely/unlikely/undecided/likely/very likely
+MC4;How likely are you to click on a recommendation made in the recommended article Set B?;very unlikely/unlikely/undecided/likely/ very likely
+MC A1.1;The articles recommended to me matched the content of the article.;strongly disagree/disagree/undecided/agree/strongly agree
+MC B1.1;The articles recommended to me matched the content of the article.;strongly disagree/disagree/undecided/agree/strongly agree
+MC A1.2;The recommender made good suggestions.;strongly disagree/disagree/undecided/agree/strongly agree
+MC B1.2;The recommender made good suggestions.;strongly disagree/disagree/undecided/agree/strongly agree
+MC A1.3;Some of the recommended articles are familiar to me.;strongly disagree/disagree/undecided/agree/strongly agree
+MC B1.3;Some of the recommended articles are familiar to me.;strongly disagree/disagree/undecided/agree/strongly agree
+MC A1.4;I am not familiar with the articles that were recommended to me.;strongly disagree/disagree/undecided/agree/strongly agree
+MC B1.4;I am not familiar with the articles that were recommended to me.;strongly disagree/disagree/undecided/agree/strongly agree
+MC A1.5;The articles recommended to me are novel and interesting.;strongly disagree/disagree/undecided/agree/strongly agree
+MC B1.5;The articles recommended to me are novel and interesting.;strongly disagree/disagree/undecided/agree/strongly agree
+MC A1.6;The articles recommended to me are similar to each other.;strongly disagree/disagree/undecided/agree/strongly agree
+MC B1.6;The articles recommended to me are similar to each other.;strongly disagree/disagree/undecided/agree/strongly agree
+MC A1.7;Overall, I am satisfied with the recommendations.;strongly disagree/disagree/undecided/agree/strongly agree
+MC B1.7;Overall, I am satisfied with the recommendations.;strongly disagree/disagree/undecided/agree/strongly agree
