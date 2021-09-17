@@ -1,6 +1,6 @@
-# Wikipedia Article Recommendations: A Qualitative Evaluation of User-perceived Satisfaction for Link-based vs. Text-based Approaches
+# Wikipedia Article Recommendations: A Qualitative Evaluation of User Preference for Link-based vs. Text-based Recommendations of Wikipedia Articles
 
-This repository contains the supplemental materials for the ICADL 2021 paper [A Qualitative Evaluation of User-perceived Satisfaction for Link-based vs. Text-based Wikipedia Article Recommendations](#arxiv):
+This repository contains the supplemental materials for the ICADL 2021 paper [A Qualitative Evaluation of User Preference for Link-based vs. Text-based Recommendations of Wikipedia Articles](https://arxiv.org/abs/2109.07791):
 - Questionnaire used for the user study
 - Participants answers (transcripted interviews and quantitative data)
 - Code to reproduce the figures in our paper
@@ -94,11 +94,11 @@ jupyter notebook paper_evaluation.ipynb
 
 ## How to cite
 
-If you are using our code, please cite [our paper](#TODO):
+If you are using our code, please cite [our paper](https://arxiv.org/abs/2109.07791):
 
 ```bibtex
-@InProceedings{Ostendorff2020,
-  title = {Pairwise Multi-Class Document Classification for Semantic Relations between Wikipedia Articles},
+@InProceedings{Ostendorff2021b,
+  title = {A Qualitative Evaluation of User Preference for Link-based vs. Text-based Recommendations of Wikipedia Articles},
   booktitle = {Proceedings of the 23rd International Conference on Asia-Pacific Digital Libraries (ICADL 2021)},
   author = {Ostendorff, Malte and Breitinger, Corinna and Gipp, Bela},
   year = {2021},
